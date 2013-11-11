@@ -17,3 +17,8 @@ The following concepts was well understood and implemented in the project :
 * Unit and Integration Testing
 
 There is no database used. All the records are stored in a flat file and manipulated using the C++ File API.
+
+Run the project
+=================
+    g++ grocery3.cpp
+    ./a.out
